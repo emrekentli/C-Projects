@@ -1,0 +1,121 @@
+c:\users\l2-01\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\l2-01\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\l2-01\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\l2-01\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\l2-01\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\l2-01\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\l2-01\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\l2-01\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+c:\users\l2-01\documents\visual studio 2010\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\l2-01\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\l2-01\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\l2-01\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\l2-01\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\l2-01\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l2-01\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\l2-01\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\l2-01\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\l2-01\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ \Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+E:\ \Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+E:\ \Murat\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\ \Murat\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\ \Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+E:\ \Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\ \Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\Murat\WindowsFormsApplication3\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+F:\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\Interop.WMPLib.dll
+F:\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+F:\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+F:\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\l2-01\Desktop\Grup1\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ \Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\Interop.WMPLib.dll
+F:\ \Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\ \Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+F:\ \Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+F:\ \Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+F:\ \Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ \Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+F:\ \Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+F:\ \Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\ \Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ \Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ \Emre\Grup1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\ \Emre\Grup1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\ \Emre\Grup1\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+F:\ \Emre\Grup1\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Emre Kentli\Desktop\dsdsd\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\Emre Kentli\Desktop\dsdsd\Proje's\Emre\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.mailgonder.resources
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.ResolveComReference.cache
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\bin\Debug\Interop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.mailgonder.resources
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form5.resources
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Emre Kentli\Desktop\Pizza Sipariş\Grup1\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache

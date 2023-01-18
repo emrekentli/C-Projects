@@ -1,0 +1,55 @@
+C:\Users\Pamuk\Desktop\c# işleri\HASTAHANE RANDEVU\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Pamuk\Desktop\c# işleri\HASTAHANE RANDEVU\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Pamuk\Desktop\c# işleri\HASTAHANE RANDEVU\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Pamuk\Desktop\c# işleri\HASTAHANE RANDEVU\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Pamuk\Desktop\c# işleri\HASTAHANE RANDEVU\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Pamuk\Desktop\c# işleri\HASTAHANE RANDEVU\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\Pamuk\Desktop\c# işleri\HASTAHANE RANDEVU\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\Pamuk\Desktop\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\Pamuk\Desktop\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\Pamuk\Desktop\hastahane\WindowsFormsApplication5\bin\Debug\Hastahane Kayıt1.accdb
+C:\Users\Pamuk\Desktop\hastahane\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Pamuk\Desktop\hastahane\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Pamuk\Desktop\hastahane\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Pamuk\Desktop\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Pamuk\Desktop\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Pamuk\Desktop\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Pamuk\Desktop\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Pamuk\Desktop\hastahane\WindowsFormsApplication5\bin\Debug\Randevu.accdb
+C:\Users\Pamuk\Desktop\hastahane\WindowsFormsApplication5\bin\Debug\Veritabanı41.accdb
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Uye.resources
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Randevu.resources
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Sifremiunuttum.resources
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\Emre\Desktop\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form2.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form3.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Form4.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Randevu.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Sifremiunuttum.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.Uye.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Users\Taslak\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\Taslak\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\Taslak\Desktop\OzayHoca\10A\GrupSunumlari\C#\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb
+C:\Users\15-OGRENCI\Desktop\c#\Projeler\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\15-OGRENCI\Desktop\c#\Projeler\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.exe
+C:\Users\15-OGRENCI\Desktop\c#\Projeler\Hastane Otomasyonları\Grup1\Grup1\Grup1\hastahane\hastahane\WindowsFormsApplication5\obj\x86\Debug\WindowsFormsApplication5.pdb

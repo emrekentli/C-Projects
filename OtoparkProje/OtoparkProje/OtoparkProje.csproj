@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{225B2BE7-A552-4FC8-8661-192C0989F9CC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OtoparkProje</RootNamespace>
+    <AssemblyName>OtoparkProje</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>exe.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Araç Ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Araç Ekle.Designer.cs">
+      <DependentUpon>Araç Ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Araç Konumu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Araç Konumu.Designer.cs">
+      <DependentUpon>Araç Konumu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Araç Çıkışı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Araç Çıkışı.Designer.cs">
+      <DependentUpon>Araç Çıkışı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Geçmiş İşlemler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Geçmiş İşlemler.Designer.cs">
+      <DependentUpon>Geçmiş İşlemler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kullanıcı Girişi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kullanıcı Girişi.Designer.cs">
+      <DependentUpon>Kullanıcı Girişi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="VeritabanıDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>VeritabanıDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Yönetici Menüsü.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yönetici Menüsü.Designer.cs">
+      <DependentUpon>Yönetici Menüsü.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Araç Ekle.resx">
+      <DependentUpon>Araç Ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Araç Konumu.resx">
+      <DependentUpon>Araç Konumu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Araç Çıkışı.resx">
+      <DependentUpon>Araç Çıkışı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Geçmiş İşlemler.resx">
+      <DependentUpon>Geçmiş İşlemler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kullanıcı Girişi.resx">
+      <DependentUpon>Kullanıcı Girişi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yönetici Menüsü.resx">
+      <DependentUpon>Yönetici Menüsü.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="VeritabanıDataSet.xsc">
+      <DependentUpon>VeritabanıDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="VeritabanıDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>VeritabanıDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="VeritabanıDataSet.xss">
+      <DependentUpon>VeritabanıDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\parklogo.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kabulred.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kabul.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\müsteri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\araba.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\car.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\konum.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\geçmiş.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ara.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ekle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\kaldır.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Boş.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Kullaniciarka.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\otoparkmenüarka.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\müsterii.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\arabacıkıs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\çıkış.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="exe.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

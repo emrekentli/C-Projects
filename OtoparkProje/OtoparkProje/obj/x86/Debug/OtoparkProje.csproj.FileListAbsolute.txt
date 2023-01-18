@@ -1,0 +1,15 @@
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\bin\Debug\OtoparkProje.exe
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\bin\Debug\OtoparkProje.pdb
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\obj\x86\Debug\OtoparkProje.Form1.resources
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\obj\x86\Debug\OtoparkProje.Properties.Resources.resources
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\obj\x86\Debug\OtoparkProje.csproj.GenerateResource.Cache
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\obj\x86\Debug\OtoparkProje.exe
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\obj\x86\Debug\OtoparkProje.pdb
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\obj\x86\Debug\OtoparkProje.Araç_Ekle.resources
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\obj\x86\Debug\OtoparkProje.Araç_Konumu.resources
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\obj\x86\Debug\OtoparkProje.Araç_Çıkışı.resources
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\obj\x86\Debug\OtoparkProje.Geçmiş_İşlemler.resources
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\obj\x86\Debug\OtoparkProje.Kullanıcı_Girişi.resources
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\obj\x86\Debug\OtoparkProje.Yönetici_Menüsü.resources
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\bin\Debug\OtoparkProje.exe.config
+C:\Users\Nursena\Desktop\Samet\OtoparkProjesi\OtoparkProje\OtoparkProje\obj\x86\Debug\OtoparkProje.csprojResolveAssemblyReference.cache

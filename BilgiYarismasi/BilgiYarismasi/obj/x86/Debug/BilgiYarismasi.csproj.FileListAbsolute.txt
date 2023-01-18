@@ -1,0 +1,170 @@
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form1.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Properties.Resources.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csproj.GenerateResource.Cache
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.exe
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.pdb
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csprojResolveAssemblyReference.cache
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form2.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form3.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form4.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form5.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form6.resources
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.exe
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.pdb
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form1.resources
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form2.resources
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form3.resources
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form4.resources
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form5.resources
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form6.resources
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Properties.Resources.resources
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\Emre\Desktop\BilgiYarismasi\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form7.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.exe
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.pdb
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csprojResolveAssemblyReference.cache
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form1.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form2.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form3.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form4.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form5.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form6.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form7.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Properties.Resources.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csproj.GenerateResource.Cache
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form8.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form9.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.exe
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.pdb
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csprojResolveAssemblyReference.cache
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form1.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form2.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form3.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form4.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form5.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form6.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form7.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form8.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form9.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Properties.Resources.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csproj.GenerateResource.Cache
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form10.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form11.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form12.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form13.resources
+C:\Users\Pamuk\Desktop\OKAN PROG\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form14.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.exe
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.pdb
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csprojResolveAssemblyReference.cache
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form1.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form10.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form11.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form12.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form13.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form14.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form2.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form3.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form4.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form5.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form6.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form7.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form8.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form9.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Properties.Resources.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csproj.GenerateResource.Cache
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form10.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form11.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form12.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form13.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form14.resources
+C:\Users\Pamuk\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form15.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form10.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form11.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form12.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form13.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form14.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form15.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form7.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form8.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form9.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form16.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form17.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form18.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form19.resources
+C:\Users\OGRENCI\Desktop\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form20.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.exe
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.pdb
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form1.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form10.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form11.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form12.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form13.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form19.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form2.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form3.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form4.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form5.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form6.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form7.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form8.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form9.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Properties.Resources.resources
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\BilgiYarismasi222,\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form21.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.exe
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.pdb
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csprojResolveAssemblyReference.cache
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form1.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form10.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form11.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form12.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form13.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form19.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form2.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form21.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form3.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form4.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form5.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form6.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form7.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form8.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form9.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Properties.Resources.resources
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csproj.GenerateResource.Cache
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.exe
+D:\BilgiYarışması\Grup1\BilgiYarismasi\BilgiYarismasi\bin\Debug\BilgiYarismasi.pdb
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csprojAssemblyReference.cache
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form1.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form10.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form11.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form12.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form13.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form19.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form2.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form21.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form3.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form4.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form5.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form6.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form7.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form8.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Form9.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.Properties.Resources.resources
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csproj.GenerateResource.cache
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.csproj.CoreCompileInputs.cache
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.exe
+D:\Diğerleri\c#\Projeler\BilgiYarışması2.Asama\Grup1\BilgiYarismasi\BilgiYarismasi\obj\x86\Debug\BilgiYarismasi.pdb

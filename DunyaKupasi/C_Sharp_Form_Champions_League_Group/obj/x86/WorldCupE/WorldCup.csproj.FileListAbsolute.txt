@@ -1,0 +1,9 @@
+C:\Users\Emre\Downloads\23\Worldcup\Worldcup\Worldcup\obj\x86\WorldCupE\C_Sharp_Form_Champions_League_Group.Form1.resources
+C:\Users\Emre\Downloads\23\Worldcup\Worldcup\Worldcup\obj\x86\WorldCupE\C_Sharp_Form_Champions_League_Group.Form2.resources
+C:\Users\Emre\Downloads\23\Worldcup\Worldcup\Worldcup\obj\x86\WorldCupE\C_Sharp_Form_Champions_League_Group.Form3.resources
+C:\Users\Emre\Downloads\23\Worldcup\Worldcup\Worldcup\obj\x86\WorldCupE\C_Sharp_Form_Champions_League_Group.Form4.resources
+C:\Users\Emre\Downloads\23\Worldcup\Worldcup\Worldcup\obj\x86\WorldCupE\C_Sharp_Form_Champions_League_Group.Form5.resources
+C:\Users\Emre\Downloads\23\Worldcup\Worldcup\Worldcup\obj\x86\WorldCupE\C_Sharp_Form_Champions_League_Group.Form6.resources
+C:\Users\Emre\Downloads\23\Worldcup\Worldcup\Worldcup\obj\x86\WorldCupE\C_Sharp_Form_Champions_League_Group.Form7.resources
+C:\Users\Emre\Downloads\23\Worldcup\Worldcup\Worldcup\obj\x86\WorldCupE\C_Sharp_Form_Champions_League_Group.Properties.Resources.resources
+C:\Users\Emre\Downloads\23\Worldcup\Worldcup\Worldcup\obj\x86\WorldCupE\WorldCup.csproj.GenerateResource.Cache

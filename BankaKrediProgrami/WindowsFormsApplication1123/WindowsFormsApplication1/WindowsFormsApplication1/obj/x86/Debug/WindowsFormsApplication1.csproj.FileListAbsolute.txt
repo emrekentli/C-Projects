@@ -1,0 +1,56 @@
+c:\users\ogrenci\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\ogrenci\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\ogrenci\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+c:\users\ogrenci\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+c:\users\ogrenci\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Emre\AppData\Roaming\Skype\My Skype Received Files\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Emre\Desktop\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\OGRETMEN-1\Desktop\OzayHoca\10A\GrupSunumlari\C#\BankaKredisi\EmreKentli\bank\WindowsFormsApplication1123\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
